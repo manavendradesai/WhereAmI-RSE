@@ -1,5 +1,8 @@
 # WhereAmI-RSE
-Project 3 of the Robotics Software Engineering Nanodegree Program at Udacity
+
+## Description --> 
+
+Project 3 of the Robotics Software Engineering Nanodegree Program at Udacity. The objective was to learn the utilization of the ROS AMCL (Adaptive Monte Carlo Localization) algorithm to localize a mobile robot inside a map in the Gazebo simulation environment. During this process, ROS AMCL parameters were to be tuned to achieve sufficiently accurate and quick localization. Lastly, the tele-operation/navigation ROS stack was to be utilized to move the mobile robot. 
 
 ## Outcomes -->
 
